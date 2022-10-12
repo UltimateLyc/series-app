@@ -1,0 +1,13 @@
+#container-second-navbar{
+    padding: 0px;
+    background-color: #3C948B !important;
+    border: 0px ;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+    background-color: #343A40;
+}
